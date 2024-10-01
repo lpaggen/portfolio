@@ -7,3 +7,6 @@
 [submodule "Natural-Language-Processing-Projects"]
 	path = Natural-Language-Processing-Projects
 	url = https://github.com/lpaggen/Natural-Language-Processing-Projects.git
+[submodule "Linear-Program-Solver"]
+	path = Linear-Program-Solver
+	url = https://github.com/lpaggen/Linear-Program-Solver
