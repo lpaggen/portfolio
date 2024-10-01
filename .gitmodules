@@ -19,3 +19,6 @@
 [submodule "ACIBILIZER"]
 	path = ACIBILIZER
 	url = https://github.com/cpaggen/ACIBILIZER
+[submodule "Deep-Learning-Forecasts"]
+	path = Deep-Learning-Forecasts
+	url = https://github.com/lpaggen/Deep-Learning-Forecasts
