@@ -16,3 +16,6 @@
 [submodule "Mathematical-Optimization-Library"]
 	path = Mathematical-Optimization-Library
 	url = https://github.com/lpaggen/Mathematical-Optimization-Library
+[submodule "ACIBILIZER"]
+	path = ACIBILIZER
+	url = https://github.com/cpaggen/ACIBILIZER
