@@ -22,3 +22,6 @@
 [submodule "Deep-Learning-Forecasts"]
 	path = Deep-Learning-Forecasts
 	url = https://github.com/lpaggen/Deep-Learning-Forecasts
+[submodule "Python-Game-Engine/tanks"]
+	path = Python-Game-Engine/tanks
+	url = https://github.com/lpaggen/tanks
