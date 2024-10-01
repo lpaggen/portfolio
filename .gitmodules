@@ -4,3 +4,6 @@
 [submodule "Data-Analysis-Projects"]
 	path = Data-Analysis-Projects
 	url = https://github.com/lpaggen/Data-Analysis-Projects.git
+[submodule "Natural-Language-Processing-Projects"]
+	path = Natural-Language-Processing-Projects
+	url = https://github.com/lpaggen/Natural-Language-Processing-Projects.git
