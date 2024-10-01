@@ -13,3 +13,6 @@
 [submodule "Genetic-Algorithms"]
 	path = Genetic-Algorithms
 	url = https://github.com/lpaggen/Genetic-Algorithms
+[submodule "Mathematical-Optimization-Library"]
+	path = Mathematical-Optimization-Library
+	url = https://github.com/lpaggen/Mathematical-Optimization-Library
