@@ -25,3 +25,6 @@
 [submodule "Python-Game-Engine/tanks"]
 	path = Python-Game-Engine/tanks
 	url = https://github.com/lpaggen/tanks
+[submodule "Python-Game-Engine"]
+	path = Python-Game-Engine
+	url = https://github.com/lpaggen/tanks
