@@ -1,0 +1,6 @@
+[submodule "Data-Analysis"]
+	path = Data-Analysis
+	url = git@github.com:lpaggen/Data-Analysis-Projects.git
+[submodule "Data-Analysis-Projects"]
+	path = Data-Analysis-Projects
+	url = https://github.com/lpaggen/Data-Analysis-Projects.git
