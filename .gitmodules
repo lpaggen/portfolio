@@ -10,3 +10,6 @@
 [submodule "Linear-Program-Solver"]
 	path = Linear-Program-Solver
 	url = https://github.com/lpaggen/Linear-Program-Solver
+[submodule "Genetic-Algorithms"]
+	path = Genetic-Algorithms
+	url = https://github.com/lpaggen/Genetic-Algorithms
