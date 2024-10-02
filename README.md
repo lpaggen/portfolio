@@ -3,6 +3,9 @@ This repository contains submodules, which are projects I wanted to share with f
 # ACIBILIZER
 This repository contains work that I conducted for Cisco as an open-source contributor. You will find different parsers I wrote to extract information and data from the Cisco ACI source code, which I believe contains about 17000 classes. I used regex very extensively for this project. The main part of the project can be found in "jsontoyml.py", which is a lengthy recursive algorithm designed to traverse JSON data structures, and convert JSON configs to .yml Ansible playbooks. Feel free to reach out to me for clarifications on the subject. 
 
+# Deep Learning Forecasts
+This repository contains some code I wrote to fit a LSTM neural network to a weather forecasting problem. Note that I was interested in forecasting weather in this case, not predicting it. Additionally, as a benchmark to compare the LSTM's forecasts, I have fitted a SARIMA model to the data I had, which turns out to perform better. All prior stationarity tests were conducted correctly on the data before any model was fit on it, and over 200 thousand data points of data was analyzed. 
+
 # Data Analysis Projects
 The Data Analaysis Projects repository contains Jupyter notebooks of some of my thorough data analysis work on various datasets. In this repository, you will find notebooks on exploratory data analysis, predictive modelling, and classification. These notebooks are entirely written in Python, using Seaborn, Matplotlib, Pandas, Numpy amongst other libraries. A lot of visualization has been done throughout these notebooks, as I aimed to be as clear as possible with my work.
 
