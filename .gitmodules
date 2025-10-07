@@ -25,3 +25,6 @@
 [submodule "Python-Game-Engine"]
 	path = Python-Game-Engine
 	url = https://github.com/lpaggen/tanks
+[submodule "Custom-Programming-Language"]
+	path = Custom-Programming-Language
+	url = https://github.com/lpaggen/Mega-rapid-Scientific-Computing-Language.git
