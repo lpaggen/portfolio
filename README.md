@@ -1,5 +1,8 @@
 This repository contains submodules, which are projects I wanted to share with future employers. Feel free to explore each of the repositories.
 
+# PyTorch Type Checker
+This one is probably my most technically impressive project to date. It's a Rust backend for a custom PyTorch static type checker I'm developing. The idea is simple: if we can identify PyTorch tensors at compile-time, then we can reason about their shapes and prove certain things about our programs which ordinary type checkers cannot do. The project is basiccally a classic compiler frontend pipeline, minus the LLVM\ASM backend. All the rest (SSA pending) is there, minus optimizations like loop unrolling etc. So anything with CFG flow analysis is here, tracking affine set relations at CFG joins, all pretty cool stuff.
+
 # ACIBILIZER
 This repository contains work that I conducted for Cisco as an open-source contributor. You will find different parsers I wrote to extract information and data from the Cisco ACI source code, which I believe contains about 17000 classes. I used regex very extensively for this project. The main part of the project can be found in "jsontoyml.py", which is a lengthy recursive algorithm designed to traverse JSON data structures, and convert JSON configs to .yml Ansible playbooks. Feel free to reach out to me for clarifications on the subject. 
 
