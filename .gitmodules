@@ -28,3 +28,6 @@
 [submodule "Custom-Programming-Language"]
 	path = Custom-Programming-Language
 	url = https://github.com/lpaggen/Mega-rapid-Scientific-Computing-Language.git
+[submodule "PyTorch-Type-Checker"]
+	path = PyTorch-Type-Checker
+	url = https://github.com/lpaggen/Python-Dimension-Static-Type-Checker
